@@ -1,3 +1,6 @@
+
+*I took an HCI class in which I learned a lot of different design principles by applying them in various, interesting projects. Below are the projects including a picture/video of the final product along with the corresponding design document my teams and I made using Medium.* 
+
 ## Good Design, Bad Design
 
 ![Image1](Good-Bad-Design.png)
