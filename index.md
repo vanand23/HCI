@@ -1,5 +1,5 @@
 
-*I took an HCI class in which I learned a lot of different design principles by applying them in various, interesting projects. Below are the projects including a picture/video of the final product along with the corresponding design document my teams and I made using Medium.* 
+*I took an HCI class in which I learned a lot of different design principles by applying them in various, interesting projects. Below are the projects including a picture/video of the final product along with the corresponding design document my teams and I made using Medium. Here is a link to my final project, [Design Manifesto](https://vanand23.github.io/HCI.Design.Manifesto/).* 
 
 ## Good Design, Bad Design
 
@@ -29,6 +29,3 @@ In this project, my team and I created a chatbot that attempts to tackle a tense
 
 Read more on my blogpost on Medium: [Design for Tension](https://medium.com/design-for-tension/design-for-tension-designing-a-chat-box-for-friends-of-depressed-people-4275612161d).
 
-## Design for Wellbeing
-
-Currently in process.
