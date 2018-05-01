@@ -16,6 +16,8 @@ WPI has many well-designed websites such as **Canvas** (on the left), a site for
 
 Read more on my blogpost on Medium: [Good Design, Bad Design](https://medium.com/@vandana1anand/bad-design-732129827e4c). 
 
+*********
+
 ## Design for Others
 
 ![Image2](Design-for-Others.png)
@@ -23,12 +25,16 @@ My team and I redesigned the Worcester Public Library Website for an iPhone base
 
 Read more on my blogpost on Medium: [Design for Others](https://medium.com/design-for-others/design-for-others-redesigning-the-worcester-public-library-site-95cec1781f9f).
 
+*********
+
 ## Design for Understanding
 
 ![Image3](Design-for-Understanding.png)
 Our project focuses on communicating the same data set, we choose March Madness 2018 Predictions, using data visualization techniques in two different ways: **clear communication and persuasion**. Clear communication visuals (on the left) are a series of graphs and charts that give a straightforward approach to the data while persuasion visuals (on the right) share a story to leave a long lasting impact on the user. 
 
 Read more on my blogpost on Medium: [Design for Understanding](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e).
+
+*********
 
 ## Design for Tension
 
