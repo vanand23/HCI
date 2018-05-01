@@ -1,7 +1,7 @@
 
-*I took an HCI class in which I learned a lot of different design principles by applying them in various, interesting projects. Below are the projects including a picture/video of the final product along with the corresponding design document my teams and I made using Medium. 
+*I took an HCI class in which I learned a lot of different design principles by applying them in various, interesting projects. Below are the projects including a picture/video of the final product along with the corresponding design document my teams and I made using Medium.*
 
-Here is a link to my final project, [Design Manifesto](https://vanand23.github.io/HCI.Design.Manifesto/).* 
+Here is a link to my final project that focuses more on the important design processes I learned and applied to my projects throughout the term: [Design Manifesto](https://vanand23.github.io/HCI.Design.Manifesto/).
 ___
 
 ## Good Design, Bad Design
