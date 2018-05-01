@@ -43,3 +43,16 @@ In this project, my team and I created a chatbot that attempts to tackle a tense
 
 Read more on my blogpost on Medium: [Design for Tension](https://medium.com/design-for-tension/design-for-tension-designing-a-chat-box-for-friends-of-depressed-people-4275612161d).
 
+*********
+
+## Design for Wellbeing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u4Yh94ZXraU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Read more on my blogpost on Medium: [Design for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07).
+
+*********
+
+## Design for Another World
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bkJJIyQPDPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Read more on my blogpost on Medium: [Design for Another World](https://medium.com/design-for-another-world/design-for-another-world-virtual-reality-beach-scene-35590de784dd).
