@@ -3,7 +3,7 @@
 
 *********
 
-##Design Manifesto
+## Design Manifesto
 
 My final project for this HCI class focuses more on the important design processes I learned and applied to my projects throughout the term. To read more about it, go to [Design Manifesto](https://vanand23.github.io/HCI.Design.Manifesto/).
 
