@@ -55,6 +55,8 @@ Read more on my blogpost on Medium: [Design for Tension](https://medium.com/desi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u4Yh94ZXraU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 In this design sprint, we wanted to use the Affectiva libraries, a company that specializes in emotion detecting technology, to create a meaningful emotion detector project of our own. **We decided to implement four emotions: happiness, sadness, neutrality and screaming to change the attributes of a YouTube video** by increasing the volume, skipping to the next video, keeping the video the same, and muting the video, respectively.
 
+Visit the project website: [YouTube Reactions Predicted with Affectiva](https://hci-designforwellbeing.glitch.me/)
+
 Read more on my blogpost on Medium: [Design for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07).
 
 *********
